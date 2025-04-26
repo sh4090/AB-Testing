@@ -6,7 +6,11 @@ Automated Retrieval, Analysis, and A/B Testing of Companies House Data
 
 This project builds on my process automation project (also available on my GitHub at https://github.com/sh4090/Process-Automation and on my blog on https://sarahassanicareer.wixsite.com/my-portfolio/post/process-automation-uk-companies-house-api-data-extraction).
 
-File/Folder | Description
+## 📦 Project Structure
+
+| `app_v1.R` | Shiny App Version 1: Original full-tab version |
+
+
 app_v1.R | Shiny App Version 1: Original full-tab version
 app_v2.R | Shiny App Version 2: Improved UI/UX version
 simulate.R | R code to simulate user tracking data for A/B test
