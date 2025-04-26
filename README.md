@@ -9,11 +9,17 @@ This project builds on my process automation project (also available on my GitHu
 ## 📦 Project Structure
 
 | `app_v1.R`               | Shiny App Version 1: Original full-tab version                           |
+
 | `app_v2.R`               | Shiny App Version 2: Simplified UI version                               |
+
 | `simulate.R`             | R code to simulate user tracking data for A/B test                       |
+
 | `user_tracking_v1.csv`   | Simulated user interaction data for Version 1                            |
+
 | `user_tracking_v2.csv`   | Simulated user interaction data for Version 2                            |
+
 | `statistical analysis.R` | Data Visulization and Statistical Tests on Primary and Secondary Metrics |
+
 | `report.Rmd`             | RMarkdown source for the final project report                            |
 
 ## 🛠️ Application Features
